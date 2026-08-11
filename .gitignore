@@ -1,3 +1,7 @@
 main.dSYM
 .vscode/
 .DS_Store
+.venv/
+*.o
+report
+temp_app
